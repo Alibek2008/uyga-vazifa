@@ -1,0 +1,231 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body {
+  background-color: aliceblue;
+}
+header {
+  width: 100%;
+  margin: 0 auto;
+  background-color: #0152a8;
+}
+.container {
+  width: 1571px;
+  margin: 0 auto;
+}
+header .top {
+  display: flex;
+  text-align: center;
+  color: aliceblue;
+  padding: 10px;
+  margin-left: 340px;
+}
+header h6 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 160%;
+}
+header .box {
+  display: flex;
+  margin-left: 450px;
+  gap: 70px;
+  color: aliceblue;
+}
+
+.container {
+  margin-left: -150px;
+}
+.navbar {
+  width: 100%;
+  margin: 0 auto;
+}
+section {
+  padding: 20px;
+}
+.buux {
+  padding-top: 45px;
+  margin-left: 380px;
+}
+.buux img {
+  margin-left: -70px;
+}
+.ul {
+  display: flex;
+  margin-left: 650px;
+  margin-top: -50px;
+  gap: 40px;
+  padding: 0;
+  font-size: 20px;
+}
+.Pharma {
+  margin-top: -45px;
+  margin-left: 380px;
+}
+nav ul li {
+  list-style: none;
+  padding-top: 25px;
+}
+nav ul li a {
+  text-decoration: none;
+  color: black;
+}
+nav .btn {
+  background: #0fe3af;
+  padding: 16px 37px;
+  align-items: flex-start;
+  width: 165px;
+  margin-left: 1320px;
+  margin-top: -35px;
+}
+.Blog {
+  background-image: url(./img/Photo.svg);
+  height: 280px;
+  width: 1660px;
+  background-repeat: no-repeat;
+  margin-top: 34px;
+}
+.text-blog {
+  display: flex;
+  justify-content: center;
+  margin-top: 96px;
+  font-size: 20px;
+}
+.Blog-img {
+  margin-left: 650px;
+  margin-top: -150px;
+}
+.Mikroscop {
+  margin-left: 290px;
+  display: flex;
+  gap: 20px;
+  margin-top: 37px;
+}
+.Mikroscop p {
+  border: 1px solid #cecece;
+  width: 200px;
+  height: 26px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Mikroscop h3 {
+  width: 335px;
+  margin-top: 20px;
+  line-height: 29px;
+  font-size: 20px;
+}
+.Mikroscop h4 {
+  color: #0152a8;
+  margin-top: 20px;
+}
+.Hover{
+  display: flex;
+  margin-top: 68px;
+  border: 1px solid #0152a8;
+  margin-left: 700px;
+  width: 70px;
+  height: 60px;
+  justify-content: center;
+  align-items: center;
+  background-color: #0152a8;
+  color: white;
+ }
+ .Hover2{
+    display: flex;
+  border: 1px solid #cecece;
+  margin-left: 790px;
+  margin-top: -60px;
+  width: 70px;
+  height: 60px;
+  justify-content: center;
+  align-items: center;
+ }
+ .Hover3{
+    display: flex;
+    border: 1px solid #cecece;
+    margin-left: 880px;
+    margin-top: -60px;
+    width: 130px;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+}
+ .section11{
+
+    background-color: #E5F2EF;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+.appo{
+    display: flex;
+    margin-top: 50px;
+    padding-left: 80px;
+    gap: 70px;
+}
+
+.section11 p{
+    border: 1px solid #E5F2EF;
+    width: 290px;
+    color: #545454;
+}
+
+.section11 input{
+    width: 325px;
+    height: 60px;
+    padding-left: 20px;
+}
+
+.section11 button{
+    width: 138px;
+    height: 60px;
+    background-color: #0152A8;
+    color: #fff;
+    font-size: 17px;
+}
+
+.section11 a{
+    text-decoration: none;
+    color: #545454;
+}
+
+.cap .ph{
+    margin-top: 10px;
+}
+.ph{
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+    margin: 16px;
+    padding: 40px;
+}
+.cap{
+    padding: 70px;
+}
+
+.ph a{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 180px;
+
+}
+
+.section12{
+    color: #545454;
+
+}
+
+.section12 p{
+    width: 1200px;
+    border: 1px solid #fff;
+    
+}
+.logoTenX{
+  margin-top: 20px;
+  text-align: center;
+}

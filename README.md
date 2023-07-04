@@ -1,2 +1,2 @@
-# uyga-vazifa
-# uyga-vazifa
+# Alibek
+# Beknur

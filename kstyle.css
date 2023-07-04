@@ -1,0 +1,357 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  body {
+    background-color: aliceblue;
+  }
+  header {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #0152a8;
+  }
+  .container {
+    width: 1571px;
+    margin: 0 auto;
+  }
+  header .top {
+    display: flex;
+    text-align: center;
+    color: aliceblue;
+    padding: 10px;
+    margin-left: 340px;
+  }
+  header h6 {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 160%;
+  }
+  header .box {
+    display: flex;
+    margin-left: 450px;
+    gap: 70px;
+    color: aliceblue;
+  }
+  
+  .container {
+    margin-left: -150px;
+  }
+  .navbar {
+    width: 100%;
+    margin: 0 auto;
+  }
+  section {
+    padding: 20px;
+  }
+  .buux {
+    padding-top: 45px;
+    margin-left: 380px;
+  }
+  .buux img {
+    margin-left: -70px;
+  }
+  .ul {
+    display: flex;
+    margin-left: 650px;
+    margin-top: -50px;
+    gap: 40px;
+    padding: 0;
+    font-size: 20px;
+  }
+  .Pharma {
+    margin-top: -45px;
+    margin-left: 380px;
+  }
+  nav ul li {
+    list-style: none;
+    padding-top: 25px;
+  }
+  nav ul li a {
+    text-decoration: none;
+    color: black;
+  }
+  nav .btn {
+    background: #0fe3af;
+    padding: 16px 37px;
+    align-items: flex-start;
+    width: 165px;
+    margin-left: 1320px;
+    margin-top: -35px;
+  }
+  .Blog {
+    border: 1px solid #DCEDFE;
+    height: 280px;
+    width: 1647px;
+    background-repeat: no-repeat;
+    margin-top: 34px;
+    margin-left: 20px;
+    background-color: #DCEDFE;
+  }
+  .text-blog {
+    display: flex;
+    justify-content: center;
+    margin-top: 56px;
+    font-size: 20px;
+    border: 1px solid #CECECE;
+    width: 200px;
+    margin-left: 780px;
+  }
+  .Blog-img {
+    margin-left: 620px;
+    margin-top: -100px;
+  }
+  .Potential{
+    margin-left: 350px;
+    margin-top: 130px;
+    font-size: 40px;
+  }
+  .Mikro{
+   margin-left: 300px;
+   /* margin-top: 30px; */
+  }
+  .Mikro img{
+  padding-top: 50px;
+}
+.Apps{
+    margin-left: 1380px;
+    margin-top: -50px;
+}
+.Line{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.Line p{
+    width: 630px;
+    margin-left: 280px;
+    margin-top: 55px;
+    line-height: 25px;
+}
+.Line h2{
+  font-size: 30px;
+  margin-left: 280px;
+  margin-top: 20px;  
+}
+.will{
+    margin-left: 660px;
+    margin-top: 25px;
+    color: #0152a8;
+}
+.will p{
+    margin-top: 15px;
+}
+.will img{
+    margin-left: -70px;
+    margin-top: 13px;
+}
+.Doctor{
+    margin-left: 830px;
+    margin-top: 11px;
+}
+.People{
+    margin-left: 590px;
+    font-size: 30px;
+    margin-top: 13px;
+}
+.People p{
+    margin-top: 20px;
+    font-size: 16px;
+    width:609px;
+}
+.People img{
+    margin-top: 14px;
+}
+.Feel h4{
+    margin-left: 590px;
+    font-size: 30px;
+    margin-top: 13px;
+}
+.Feel p{
+    margin-top:20px;
+    font-size: 16px;
+    width:609px;
+    margin-left: 590px;
+}
+.leverage{
+    margin-left: 660px;
+    margin-top: 25px;
+}
+.leverage p{
+    margin-top: 15px;
+
+}
+.Hammasi{
+    margin-left: 590px;
+    margin-top: 50px;
+    border: 1px solid #F1F1F1;
+    background-color: #F1F1F1;
+    width: 589px;
+    height: 200px;
+}
+.image{
+    margin-left: 28px;
+    margin-top: 28px;
+}
+.image h3{
+    margin-left: 90px;
+    margin-top: -70px;
+}
+
+.image p{
+    margin-left: 90px;
+    margin-top: 15px;
+}
+.App{
+    margin-left: 440px;
+    margin-top: -40px;
+}
+.Chiziq{
+    margin-left: 30px;
+    margin-top: 22px;
+}
+.Chiziq p{
+    margin-top: 22px;
+}
+.Share{
+    margin-left: 610px;
+    margin-top: 75px;
+}
+.Share img{
+    margin-left: 330px;
+}
+.Leave{
+    margin-left: 590px;
+    margin-top: 75px;
+}
+.obshiy{
+    margin-left: 590px;
+    margin-top: 20px;
+}
+.Name{
+    border: 1px solid #DCDCDC;
+    width: 590px;
+    height: 60px;
+    color: #DCDCDC;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+}
+.Email{
+    border: 1px solid #DCDCDC;
+    width: 590px;
+    height: 60px;
+    color: #DCDCDC;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    margin-top: 20px;
+}
+.Website{
+    border: 1px solid #DCDCDC;
+    width: 590px;
+    height: 60px;
+    color: #DCDCDC;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    margin-top: 20px;
+}
+.Message{
+    border: 1px solid #DCDCDC;
+    width: 590px;
+    height: 180px;
+    color: #DCDCDC;
+     padding-top: 20px;
+    padding-left: 30px;
+    margin-top: 20px;
+}
+.Post{
+    border: 1px solid #DCDCDC;
+    width: 190px;
+    height: 60px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: #0152a8;
+}
+.section11{
+
+    background-color: #E5F2EF;
+    margin: 0 auto;
+    margin-top: 3341px;
+    margin-left: 260px;
+}
+.appo{
+    display: flex;  
+    margin-top: 50px;
+    padding-left: 80px;
+    gap: 70px;
+}
+.simpe{
+    width: 409px;
+    margin-left: -80px;
+    line-height: 40px;
+}
+
+.section11 p{
+    border: 1px solid #E5F2EF;
+    width: 290px;
+    color: #545454;
+}
+
+.section11 input{
+    width: 325px;
+    height: 60px;
+    padding-left: 20px;
+}
+
+.section11 button{
+    width: 138px;
+    height: 60px;
+    background-color: #0152A8;
+    color: #fff;
+    font-size: 17px;
+}
+
+.section11 a{
+    text-decoration: none;
+    color: #545454;
+}
+
+.cap .ph{
+    margin-top: 10px;
+}
+.ph{
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+    margin: 16px;
+    padding: 40px;
+    margin-left: -80px;
+}
+.cap{
+    padding: 70px;
+}
+
+.ph a{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 180px;
+
+}
+
+.section12{
+    color: #545454;
+
+}
+
+.logoTenX{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  margin-left: 180px;
+}
